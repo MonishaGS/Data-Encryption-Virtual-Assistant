@@ -1,6 +1,6 @@
 # Data Encryption-Virtual Assistant
 A Virtual Assistant which provides data security by performing both Cryptography and Steganography
-## Tasks the Virtual Assistant can perform
+## Features
 - Encryption(Cryptography and Steganography)
 - Translation
 - Internet Search
